@@ -102,6 +102,7 @@ margin:0;
 
 }
 
+
 @media(max-width:675px){
 .menu{
 
@@ -137,6 +138,20 @@ margin:0;
 	height: 9vh; 
 }
 .itemlist{
-width: 65vw;
+width: 80vw;
 }
 }
+@media(min-width:680px ) and (max-width: 1024px)
+{
+
+	.dimension{
+		height: 11vh;
+		width: 15vw;
+	
+
+	}
+	.list1 li{
+		margin-left: 1vw;
+	}
+}
+
